@@ -1,0 +1,2 @@
+import{A as t}from"./index.9a72b68e.js";import"./index.ffe3de8d.js";import"./iframe.d61fa92f.js";import"./index.82f76715.js";import"./jsx-runtime.b918ab6a.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gustavosorati.png",alt:"Gustavo Sorati"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:""}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.6ea0e55e.js.map
