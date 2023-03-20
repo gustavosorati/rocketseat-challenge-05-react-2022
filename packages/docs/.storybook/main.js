@@ -18,7 +18,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if(configType === "PRODUCTION"){
-      config.base = '/rocketseat-react-2022-chapter-05/'
+      config.base = '/rocketseat-challenge-05-react-2022/'
     }
 
     return config
