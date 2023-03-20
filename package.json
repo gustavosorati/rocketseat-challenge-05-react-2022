@@ -6,10 +6,7 @@
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build",
-    "changeset": "changeset",
-    "version-packages": "changeset version",
-    "release": "turbo run build --filter=!@gt-ignite-ui/docs && changeset publish"
+    "build": "turbo run build"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.0",
